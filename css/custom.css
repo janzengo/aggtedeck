@@ -1,0 +1,22 @@
+@charset "utf-8";
+	/* CSS Document */
+
+	/*------------------------------------------
+	Project Name : AGGTE Cladding and Decking Company
+	Desgined By  : Janzen Go
+	Developed By : Janzen Go;
+	------------------------------------------*/
+.why_choose_us_sec_content {
+    position: relative;
+    width: 65%;
+    margin-left: 470px;
+}
+
+#sec-image-and {
+    position: relative;
+}
+
+.numberEmail p{
+	font-weight: bold;
+	font-size: 50;
+}
