@@ -224,9 +224,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="about-img"><br><br><br>
             <figure> <img src="images/about4.png" class="img-responsive" alt="Image"></figure>
           </div>
-            <div name="divHrefB" style="height: 0px;width: 0px;overflow:hidden;">
-                <a href='https://www.freepik.com/vectors/sale'>Sale vector created by macrovector - www.freepik.com</a>
-            </div>
         </div>
         <!--col start-->
       </div>
